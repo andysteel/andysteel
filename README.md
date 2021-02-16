@@ -28,8 +28,10 @@ Here are some ideas to get you started:
 <div class="column-left">
   <p align='center'>
     <h5 id="headers" > 🔭 I’m currently working with ...</h5>
-    <h5> Frontend:&nbsp;&nbsp;&nbsp; 
-    <img src="https://img.shields.io/badge/Angular9%20-%23e34f26.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;&nbsp;
+    <h5> Frontend:&nbsp;&nbsp;&nbsp;
+    <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+    <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+    <img src="http://img.shields.io/badge/React%20-%231572B6.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
     <img src="http://img.shields.io/badge/Jquery%20-%231572B6.svg?&style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;&nbsp;
     </h5>
   </p>
@@ -42,6 +44,21 @@ Here are some ideas to get you started:
     </h5>
   </p>
 </div>
+<div class="column-right">
+  <p align='center'>
+    <h5>Database:&nbsp;&nbsp;&nbsp; 
+    <img alt="Oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />&nbsp;&nbsp;&nbsp;
+    </h5>
+  </p>
+</div>
+<div class="column-right">
+  <p align='center'>
+    <h5>Devops:&nbsp;&nbsp;&nbsp; 
+    <img alt="Jenkins" src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+    <img alt="Azure" src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+    </h5>
+  </p>
+</div>
 
 <hr>
 
@@ -50,10 +67,24 @@ Here are some ideas to get you started:
     <h5 id="headers" >
     <h5>  🌱 I’m currently learning ...&nbsp;&nbsp;&nbsp; 
     <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+    <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+    <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/VueJs%20-%23e34f26.svg?&style=for-the-badge&logo=vue.js&color=green&logoColor=white" />&nbsp;&nbsp;&nbsp;
     <img src="http://img.shields.io/badge/NestJs%20-%23e34f26.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />&nbsp;&nbsp;&nbsp;
-    <img src="http://img.shields.io/badge/React%20-%231572B6.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Docker%20-%231572B6.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;
+    </h5>
+  </p>
+</div>
+
+<hr>
+
+<div class="column-left">
+  <p align='center'>
+    <h5 id="headers" >
+    <h5>  ⚡ I have some projects hosted at ...&nbsp;&nbsp;&nbsp; 
+    <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+    <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+    <img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>&nbsp;&nbsp;&nbsp;
     </h5>
   </p>
 </div>
