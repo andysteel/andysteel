@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <p align='center'>
-  My name is Anderson Dias, I'm currently living in Rio de Janeiro, Brazil and working at <b>DATAINFO</b> 
+  My name is Anderson Dias, I'm currently living in Rio de Janeiro, Brazil and working at <b>META</b> 
 </p>
 
 <p align='center'>
@@ -102,6 +102,16 @@ Here are some ideas to get you started:
 
 <hr>
 
+ <div>
+  <a href="https://github.com/andysteel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andysteel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andysteel&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+</br>
+</br>
+</br>
+</br>
 <p align="right">
     <a href="https://open.spotify.com/playlist/7kChG2wTmqvCcPg9MsDvmY"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp; 
   <h5 align="right"><img src="https://www.kindpng.com/picc/m/203-2032327_file-triquetra-double-svg-celtic-pagan-symbol-hd.png" width="3%" />The Beginning is the End and the End is the Beginning ...</h5>
